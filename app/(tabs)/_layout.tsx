@@ -42,7 +42,7 @@
 //   );
 // }
 
-//Choose LLMs removed Settings
+//Choose LLMs sections added
 import { Tabs } from 'expo-router';
 import { useTheme } from '@/context/ThemeContext';
 import { MessageCircle, Brain, Settings } from 'lucide-react-native';
